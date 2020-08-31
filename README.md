@@ -1,3 +1,3 @@
 # img_test
 
-![picture][/storybook.PNG]
+![test_image](/storybook.PNG)
