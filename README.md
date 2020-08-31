@@ -1,3 +1,3 @@
 # img_test
 
-![alt text][storybook.PNG]
+![alt text][./storybook.PNG]
